@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm [erfan ehsani] 👋
 
-<!--
-**erfanehsani/erfanehsani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Python Developer | 📊 Data Enthusiast | 💻 Lifelong Learner
 
-Here are some ideas to get you started:
+- 🔭 Currently learning Data Analysis and Machine Learning
+- 🌱 Exploring Git, GitHub, and open-source contribution
+- 💬 Ask me about Python, Git, or anything tech!
+- 📫 How to reach me: [erfanehsani@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- Languages: Python,HTML/CSS
+- Tools: Git, GitHub, Jupyter, VS Code
+- Interests: Data Science, Web Development, AI, Open Source
+
+
+
+## 🙋‍♂️ About Me
+
+I'm a curious and passionate programmer who loves to build, learn, and share.  
+Always open to collaboration, feedback, and new ideas!
+
+> “The best way to get started is to quit talking and begin doing.” – Walt Disney
