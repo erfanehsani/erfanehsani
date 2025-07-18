@@ -13,7 +13,7 @@
 
 - Languages: Python,HTML/CSS
 - Tools: Git, GitHub, Jupyter, VS Code
-- Interests: Data Science, Web Development, AI, Open Source
+- Interests: Data Science,AI, Open Source
 
 
 
